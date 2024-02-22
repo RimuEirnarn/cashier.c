@@ -1,0 +1,7 @@
+def.c
+abc.c
+def
+abc
+main
+.sw[po]
+*.o
